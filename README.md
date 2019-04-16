@@ -3,7 +3,7 @@
 ![Alt text](./shop.png?raw=true "iOS & Android")
 
 ## Description
-Flutter Shopping app with shopping cart with Midtrans payment gateway integration
+Flutter Shopping app with shopping cart & Midtrans payment gateway integration
 
 ## Requirements
 Flutter 1.0 SDK
